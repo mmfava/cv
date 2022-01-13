@@ -1,0 +1,994 @@
+---
+title: "Marília Melo Favalesso"
+author: Marília Melo Favalesso
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: [ 'dd_cv.css', 'custom.css','resume']
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Aside
+================================================================================
+
+<i class='fas fa-download'></i> [Download this CV in PDF](cv.pdf)
+
+Contact {#contact} 
+--------------------------------------------------------------------------------
+- `r fontawesome::fa("link")` [www.mmfava.com](https://www.mmfava.com/)
+- `r fontawesome::fa("envelope")` mariliabioufpr@gmail.com
+- `r fontawesome::fa("github")` [github/mmfava](https://github.com/mmfava)
+
+Themes {#contact}
+--------------------------------------------------------------------------------
+- `r fontawesome::fa("table")` `Biostatistics`
+- `r fontawesome::fa("laptop-code")` `Programming in R / Python`
+- `r fontawesome::fa("search")` `Ecoepidemiology`
+- `r fontawesome::fa("pagelines")` `Conservation`
+- `r fontawesome::fa("bug")` `Entomology`
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+- `r fontawesome::fa("r-project")` [`R`](https://www.r-project.org/)
+- `r fontawesome::fa("python")` [`Python (basic)`](https://www.python.org/)
+- `r fontawesome::fa("file-excel")` [`Excel`](https://qgis.org/en/site/)
+- **>** [`Xlstat`](https://www.xlstat.com/en/)
+- `r fontawesome::fa("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
+- `r fontawesome::fa("code-branch")` [`Git`](https://git-scm.com/)
+- `r fontawesome::fa("quora")` [`QGIS`](https://qgis.org/en/site/)
+- `r fontawesome::fa("mountain")` [`Inkscape`](https://inkscape.org/pt-br/)
+
+Languages {#skills}
+--------------------------------------------------------------------------------
+- Portuguese (Native speaker)
+- English (Intermediary)
+- Spanish (Advanced)
+
+Disclaimer {#disclaimer}
+------------------------------------
+CV by [**pagedown**](https://github.com/rstudio/pagedown) R package.  
+Code available on `r fontawesome::fa("github")` [GitHub](https://github.com/mmfava/site).  
+Last updated on `r Sys.Date()`.
+
+Main
+================================================================================
+
+Marília Melo Favalesso {#title}
+--------------------------------------------------------------------------------
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4441-0960" href="https://orcid.org/0000-0003-4441-0960" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4441-0960</a></div>
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Doctoral Student in Ecology, Genetics and Evolution
+
+[Universidad de Buenos Aires - Buenos Aires capital, Argentina](http://www.ege.fcen.uba.ar/)
+
+N/A
+
+2018 - Present
+
+**Provisional thesis title**: Ecoepidemiological studies of *Lonomia achelous* and *Lonomia obliqua* (Saturniidae: Hemileucinae) in South America.
+
+**Advisor**: PhD. Maria elisa Peichoto and PhD. Ana Tereza Bittencourt Guimarães
+
+### Master in Environmental Sciences
+
+[Universidade Estadual do Oeste do Paraná, Cascavel, PR, Brazil](https://www5.unioeste.br/portalunioeste/pos/pprn)
+
+N/A
+
+2016 - 2018
+
+**Thesis**: Ecological conditions and prediction of available areas for Lonomia obliqua walker 1855 in Brazil ([UNIOESTE Libraries](http://tede.unioeste.br/handle/tede/3961))  
+**Advisor**: PhD. Ana Tereza Bittencourt Guimarães
+
+### Bachelor in Biological Sciences 
+
+[Universidade Federal do Paraná (UFPR), Palotina, PR, Brazil ](http://www.palotina.ufpr.br/portal/ciencias-biologicas/)
+
+N/A
+
+2010 - 2014
+
+**Thesis**: Bees and wasps (Hymenoptera) as ecological indicators in a forest restoration area.  
+**Advisor**: PhD. Rodrigo Barbosa Gonçalves
+
+### Environmental Technician
+
+[Centro Estadual de Educação Profissional Pedro Boaretto Neto, Cascavel, PR, Brazil](https://www.ceepcascavel.com.br/)
+
+N/A
+
+2005 - 2009
+
+
+Complementary Education {data-icon=book}
+--------------------------------------------------------------------------------
+### Training of teacher-facilitators: Descriptive Statistical Analysis with R
+
+Escola Nacional de Administração Pública, ENAP
+
+Brazil
+
+2021
+
+::: concise
+- 35 h 
+:::
+
+### Generalized linear mixed model
+
+Universidad de Buenos Aires, UBA (remote)
+
+Argentina
+
+2021
+
+::: concise
+- 40 h 
+:::
+
+
+### Quantitative remote sensing applied to environmental problems
+
+Universidad Nacional de General San Martin, UNSAM (remote)
+
+Argentina
+
+2020
+
+::: concise
+- 64 h 
+:::
+
+### Introduction to Bayesian Statistical Methods in Ecology 
+
+Universidad de Buenos Aires (UBA)
+
+Argentina
+
+2019
+
+::: concise
+- 60 h 
+:::
+
+### Epidemiology
+
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+
+Brazil
+
+2019
+
+::: concise
+- 60 h
+:::
+
+### Time series modeling
+
+Universidad de Buenos Aires (UBA)
+
+Argentina
+
+2019
+
+::: concise
+- 60 h
+:::
+
+### Advanced models in health and environment
+
+Universidad de Buenos Aires (UBA)
+
+Argentina
+
+2018
+
+::: concise
+- 60 h
+:::
+
+### School of Advanced Training in Panoramic Epidemiology
+
+Instituto Gulich
+
+Argentina
+
+2018
+
+::: concise
+- 84 h
+:::
+
+### Biotoxinology
+
+Universidade da Integração Latino-Americana (UNILA)
+
+Brazil
+
+2018
+
+::: concise
+- 45 h
+:::
+
+### Ecological niche modeling: theory and practice
+
+Universidade Estadual Paulista (UNESP)
+
+Brazil
+
+2017
+
+::: concise
+- 60 h
+:::
+
+### Environmental quality and natural resource management
+
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+
+Brazil
+
+2016
+
+::: concise
+- 60 h
+:::
+
+### Multivariate analysis
+
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+
+Brazil
+
+2016
+
+::: concise
+- 60 h
+:::
+
+### Special topics in methodology and scientific writing
+
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+
+Brazil
+
+2016
+
+::: concise
+- 60 h
+:::
+
+### Basic level statistics
+
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+
+Brazil
+
+2016
+
+::: concise
+- 60 h
+:::
+
+### Numerical ecology
+
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+
+Brazil
+
+2015
+
+::: concise
+- 60 h
+:::
+
+### Theoretical ecology
+
+Universidade Estadual do Oeste do Paraná (UNIOESTE)
+
+Brazil
+
+2015
+
+::: concise
+- 60 h
+:::
+
+### Short course in *XII Summer Course in Entomology*
+
+Universidade de São Paulo (USP)
+
+Brazil
+
+2014
+
+::: concise
+- 90 h
+:::
+
+### Short Course in *Forensic Entomology*
+
+RENOVA cursos
+
+Brazil
+
+2012
+
+::: concise
+- 8 h
+:::
+
+### Short Course in DNA Forensic Analysis
+
+RENOVA cursos
+
+Brazil
+
+2012
+
+::: concise
+- 8 h
+:::
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Biostatistics consultancy and advice
+
+[Qual é a sua pergunta?](https://qualesuapergunta.wixsite.com/consultoria)
+
+Brazil
+
+2016 - 2018
+
+::: concise
+- Univariate statistical analysis
+- Multivariate statistical analysis
+- Non-parametric statistical analysis
+- Ecological analyzes
+- R courses
+- Latex course integrated with R
+- Mendeley course
+:::
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+### [Introduction to analysis of biological data with R (Spanish)](https://1drv.ms/u/s!AqEf2XJKAY50lpQzETaO7utKvuquFA?e=3oFrCv)
+
+Course taught in synchronous mode - V Jornadas Paraguayas de Mastozoología, PY
+
+Paraguay
+
+2021
+
+::: concise
+- 15h
+:::
+
+### [Git and GitHub without programming (Portuguese)](https://www.mmfava.com/talk/2021-09-30-git-sem-prog/)
+
+Course taught in synchronous mode - 2ª Hacktoberfest GDG e GECD Foz do Iguaçu, Paraná - BR
+
+Brazil
+
+2021
+
+::: concise
+- 1h
+:::
+
+### [Introduction to analysis of biological data with R (Spanish)](https://introduccionalr.netlify.app/)
+
+Course taught in synchronous/asynchronous mode - INMeT, Puerto Iguaçu, Misiones - AR
+
+Argentina
+
+2021
+
+::: concise
+- 48h
+:::
+
+
+### [Eco-epidemiological tools for surveillance of accidents with venomous animals (Spanish/Portuguese)](https://www.mmfava.com/talk/2021-08-14-ferramentas-ecoepidemiologicas/)
+
+Taught class - 
+UNILA
+
+Brazil
+
+2021
+
+::: concise
+- 5 h 
+:::
+
+### [Introduction to Git and GitHub in RStudio (Portuguese)](https://www.mmfava.com/talk/2021-08-14-git-github-rstudio/)
+
+Short course instructor -
+R-Ladies Fortaleza
+
+Brazil
+
+2020
+
+::: concise
+- 4 h 
+:::
+
+### [Species distribution models: an introduction (Portuguese)](https://www.mmfava.com/talk/2021-08-14-mode-nicho-rladies/)
+
+Short course instructor -
+R-Ladies BH
+
+Brazil
+
+2020
+
+::: concise
+- 1 h 
+:::
+
+### [Descriptive statistics (Portuguese)](https://github.com/gecdfoz/GECD/tree/master/Cursos/2019.1/02-0709)
+
+Short course instructor 
+Grupo de Estudos em Ciência de Dados (GECD)
+
+Brazil
+
+2019
+
+::: concise
+- 4 h 
+:::
+
+### [Introduction to R Language (Portuguese)](https://github.com/gecdfoz/GECD/tree/master/Cursos/2019.1/04-1210)
+
+Short course instructor 
+Grupo de Estudos em Ciência de Dados (GECD)
+
+Brazil
+
+2019
+
+::: concise
+- 4 h 
+:::
+
+### Ecological Niche Modeling (ENM) and Species Distribution (SDM) in R (Portuguese)
+
+Short course instructor 
+*XXVI Semana Acadêmica de Ciências Biológicas*
+UNIOESTE
+
+Brazil
+
+2017
+
+::: concise
+- 4 h 
+:::
+
+### [Numerical ecology in R (Portuguese)](https://www.mmfava.com/talk/2021-08-14-mini-curso-de-ecologia-n%C3%BAmerica/)
+
+Short course instructor  
+*XXV Semana Acadêmica de Ciências Biológicas*
+UNIOESTE
+
+Brazil
+
+2016
+
+::: concise
+- 4 h 
+:::
+
+
+### Introduction to R Language (Portuguese)
+
+Short course instructor  
+Universidade Federal do Paraná (UFPR)
+
+Brazil
+
+2016
+
+::: concise
+- 24 h
+:::
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### 10. Resistenca a antibióticos de relevancia clínica en un hospital de Corrientes
+
+MEDICINA (Buenos Aires) V81: 946-953
+
+N/A
+
+2021
+
+Full text: [link](https://www.medicinabuenosaires.com/revistas/vol81-21/n6/946.pdf)
+
+Gritti MA, <u>**Favalesso MM**</u>, Capará LGG & Peichoto ME
+
+
+### 9. Land use as an effective factor on the occurrence of chromosomal diseases in Brazil
+
+*International Journal of Molecular Epidemiology and Genetics* 12(5):102-111
+
+N/A
+
+2021
+
+PMID: [34853634](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611229/); PMCID: [PMC8611229](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611229/)
+
+Cochak MR, <u>**Favalesso MM**</u>, Costa RM, Guimarães ATB & Ribeiro LFC
+
+### 8. A hidden deadly venomous insect: first eco-epidemiological assessment and risk mapping of lonomism in Argentina
+
+*Plos One NDTS* PLoS Negl Trop Dis 15(7): e0009542
+
+N/A
+
+2021
+
+DOI: [10.1371/journal.pntd.0009542](https://doi.org/10.1371/journal.pntd.0009542)
+
+Casafús MG, <u>**Favalesso MM**</u>, Gritti MA, Coronel JM, Guimarães ATB & Peichoto ME
+
+### 7. *Lonomia* envenomation in Brazil: an epidemiological overview for the period 2007-2018.
+
+*Transactions of The Royal Society of Tropical Medicine and Hygiene* 115: 9-19
+
+N/A
+
+2021
+
+DOI: [10.1093/trstmh/traa051](https://academic.oup.com/trstmh/article-abstract/115/1/9/5908316?redirectedFrom=fulltext)  
+
+<u>**Favalesso MM**</u>, Cuervo PF, Casafús M, Guimarães ATB and Peichoto ME
+
+::: aside
+**Citations**  
+[Google Scholar](https://scholar.google.com.br/citations?user=fJuPSpAAAAAJ&hl=pt-BR&oi=ao)  
+:::
+
+### 6. Report of predatory events in *Lonomia* sp. (Saturniidae: Hemileucinae)
+
+*Oecologia australis* 24(1): 235-241
+
+N/A
+
+2020
+
+DOI: [oeco.2020.2401.23](https://doi.org/10.4257/oeco.2020.2401.23)  
+
+<u>**Favalesso MM**</u>, Chiyo L, Casafús M, Guimarães ATB and Peichoto ME
+
+### 5. Potential distribution and ecological conditions of *Lonomia obliqua* Walker 1855 (Saturniidae: Hemileucinae) in Brazil
+
+*Acta tropica* 192: 158-164
+
+N/A
+
+2019
+
+DOI: [10.1016/j.actatropica.2019.01.016](https://doi.org/10.1016/j.actatropica.2019.01.016)  
+<u>**Favalesso MM**</u>, Lorini LM, Peichoto ME and Guimarães ATB
+
+
+### 4. Recorriendo Misiones para el registro ecoepidemiológico de la oruga venenosa *Lonomia* spp. (Saturniidae: Hemileucinae)
+
+*Boletín de la Sociedad Entomológica Argentina* 30: 4-7
+
+N/A
+
+2019
+
+Full text: [BSEA](https://ri.conicet.gov.ar/bitstream/handle/11336/107348/CONICET_Digital_Nro.9ae8f9e9-e361-4e98-a9a8-36286ac3cc6c_B.pdf?sequence=5&isAllowed=y)
+
+Casafús M, <u>**Favalesso MM**</u>, Guimarães ATB and Peichoto ME
+
+
+### 3. Construction of meanings in practical lessons of biology laboratory: an evaluation by quasi-experimental design
+
+*Revista brasileira de ensino de ciência e tecnologia* 12(3): 78-93
+
+N/A
+
+2019
+
+DOI: [10.3895/rbect.v12n3.7608](https://periodicos.utfpr.edu.br/rbect/article/view/7608)
+
+<u>**Favalesso MM**</u>, Oliveira JB, Klüber TE and Guimarães ATB
+
+
+### 2. Effects of trichlorfon used in the treatment of parasitosis on biological metrics of farmed *Ctenopharingodon idella* (Valenciennes, 1844)
+
+*Archives of Veterinary Science* 24(2): 61-72
+
+N/A
+
+2019
+
+DOI: [10.5380/avs.v24i2.57734]( http://dx.doi.org/10.5380/avs.v24i2.57734) 
+
+Guimarães ATB, Sobjak TM, <u>**Favalesso MM**</u> and Boeger WAP
+
+
+### 1. Bees and wasps (Hymenoptera) as ecological indicators in a forest restoration area 
+
+*Oecologia australis* 21(4): 396-406
+
+N/A
+
+2017
+
+DOI: [10.4257/oeco.2017.2104.04](https://doi.org/10.4257/oeco.2017.2104.04)
+
+<u>**Favalesso MM**</u> and Gonçalves RB
+
+Oral communications {data-icon=volume-up}
+--------------------------------------------------------------------------------
+
+### [The importance of data in the biologist's profession (Portuguese)](https://1drv.ms/u/s!AqEf2XJKAY50h_BOpNXJUJfNtOqJnA?e=GlLX3m)
+
+VI International Congress of Veterinary Medicine and Biological Sciences
+
+Brazil
+
+2019
+
+
+### [Clinical and epidemiological characterization of accidents with *Lonomia* in Misiones (Argentina) (Spanish)](https://1drv.ms/b/s!AqEf2XJKAY50ivlIEF5a9dBKoKF7sw?e=kJWh8G)
+
+II Simpósio Latino-Americano de Biociências
+
+Brazil
+
+2019
+
+### [Be careful where you touch: an overview of lonomism in Brazil (Portuguese)](https://1drv.ms/b/s!AqEf2XJKAY50ivk88L9cHcym4N8heA?e=NEl6oH)
+
+Seminário em Biociência - UNILA
+
+Brazil
+
+2019
+
+### [Potential distribution and ecological aspects of the venomous caterpillar *Lonomia obliqua* walker 1855 in Brazil (Portuguese)](https://1drv.ms/b/s!AqEf2XJKAY50ivlJblwANd7ilyUbJw?e=IHbCYX)
+
+I Simpósio Latino-Americano de Biociências
+
+Brazil
+
+2018
+
+### [Ecological niche modeling by maximum entropy (Portuguese)](https://1drv.ms/b/s!AqEf2XJKAY50ivk9EChcMXc3FXrIGA?e=QOJ5Ss)
+
+Seminários em Conservação e Manejo de Recursos Naturais
+
+Brazil 
+
+2017
+
+### [Structure of the interaction network between bees and angiosperms native to a semideciduous seasonal forest (São Camilo State Park, Palotina, Paraná) (Portuguese)](https://1drv.ms/b/s!AqEf2XJKAY50ivlKW4VXd_3KyFLiSg?e=gqofkj)
+
+22º EVINCI/7º EINTI
+
+Brazil
+
+2014
+
+### [Basic evolution concepts (Portuguese)](https://1drv.ms/b/s!AqEf2XJKAY50ivlB_Oi6GsrK_0xfxA?e=LSNdRg)
+
+Grupo de Estudos em Bioética (GEB) - UFPR
+
+Brazil
+
+2013
+
+### [Preliminary study of cadaveric fauna in the municipality of Palotina, Paraná - entomological succession (Portuguese)](https://1drv.ms/b/s!AqEf2XJKAY50ivlMV6fteu7MpDX9Xg?e=jWXJWC)
+
+20º EVINCI/5º EINTI
+
+Brazil
+
+2012
+
+### The relevance of cadaveric decomposition (Portuguese)
+
+[Grupo de Estudos em Pesquisas Forense (GEP Forense) - UFPR](https://1drv.ms/b/s!AqEf2XJKAY50ivk-fitxSHar0aJKMw?e=SgpzW9)
+
+Brazil
+
+2012
+
+
+Publications from events {data-icon=book-open}
+--------------------------------------------------------------------------------
+
+### [Potential distribution of the main hosts of schistosomiasis (*Biomphalaria* spp., Mollusca, Gasteropoda: Planorbidae) in Paraguay (Spanish) ](https://drive.google.com/file/d/1Gprrl4s8FLMHN0aKNWAeittelGemLqPS/view)
+
+Primer Congreso Paraguayo de Zoología
+
+Paraguay
+
+2019
+
+Casaccia PS, Burgos EF, <u>**Favalesso MM**</u>, Rios SD, Mereles MF, Arias AR
+
+### [Clinical and epidemiological characterization of accidents with *Lonomia* in Misiones (Argentina) (Spanish)](https://github.com/mmfava/Simposio_Latinoamericano_Biociencias_II)
+
+II Simpósio Latino-Americano de Biociências
+
+Brazil
+
+2019
+
+<u>**Favalesso MM**</u>, Couto EM, Casafús M, Gritti MA, Guimarães ATB and Peichoto ME
+
+
+### [Priorities to prevent the establishment and spread of the yellow lily in susceptible regions (Spanish)]()
+
+VI Congreso Nacional de Conservación de la Biodiversidad 
+
+Argentina
+
+2019
+
+Gervazoni P, <u>**Favalesso MM**</u>, Franceschini C, Fuentes Rodriguez D, Sosa A, Coetzee J and Hill M
+
+
+### [Lonomism in Brazil: epidemiological analysis of accidents caused by poisonous caterpillars in the period 2007 and 2018 (Portuguese)](https://733a1b04-0b5d-4c37-aa16-b097f5a5362b.filesusr.com/ugd/d485a1_c0184a5c48e24cfc9c3fda7aaec28546.pdf)
+
+IX Simpósio de Zoonoses com Interesse em Saúde Pública
+
+Brazil
+
+2019
+
+<u>**Favalesso MM**</u>, Casafús M, Guimarães ATB and Peichoto ME
+
+### [Accidents with honey bees in the state of São Paulo (Portuguese)](https://733a1b04-0b5d-4c37-aa16-b097f5a5362b.filesusr.com/ugd/d485a1_c0184a5c48e24cfc9c3fda7aaec28546.pdf)
+
+IX Simpósio de Zoonoses com Interesse em Saúde Pública
+
+Brazil
+
+2019
+
+<u>**Favalesso MM**</u>, Oliveira PS and Burgos E
+
+### [Clinical-epidemiological approach to loxoscelism in the region of Foz do Iguaçu-PR (Portuguese)](https://733a1b04-0b5d-4c37-aa16-b097f5a5362b.filesusr.com/ugd/d485a1_c0184a5c48e24cfc9c3fda7aaec28546.pdf)
+
+IX Simpósio de Zoonoses com Interesse em Saúde Pública
+
+Brazil
+
+2019
+
+Lescano ME, Ripoli MC, Oliveira WF, <u>**Favalesso MM**</u>, Peichoto ME and Tavares FL
+
+### [Potential distribution and ecological aspects of the venomous caterpillar *Lonomia obliqua* Walker 1855 in Brazil (Portuguese)](https://docs.wixstatic.com/ugd/7d7870_c408dd67d3674203a454221959af49eb.pdf)
+
+I Simpósio Latino-Americano de Biociências
+
+Brazil
+
+2019
+
+<u>**Favalesso MM**</u>, Casafús MG, Lorini LM, Guimarães ATB and Peichoto ME
+
+### [Contribution to knowledge about the distribution of accidents and host plants of the venomous caterpillar *Lonomia* spp. (Saturniidae: Hemileucinae) in the province of Misiones – Argentina (Spanish)](https://docs.wixstatic.com/ugd/7d7870_a48dd72cbc03499fa1da5443991a275e.pdf)
+
+I Simpósio Latino-Americano de Biociências
+
+Brazil
+
+2019
+
+Casafus M, <u>**Favalesso MM**</u>, Couto E, Gatti F, Guimarães ATB and Peichoto ME
+
+### [Revealing land-use change as a key factor influencing the incidence of envenomation by *Lonomia* sp. in southern Brazil (English)](https://docs.wixstatic.com/ugd/cccb67_03de2b15082949418b706d8db308d59b.pdf)
+
+3th International Symposium of Ecology (SINECO)
+
+Brazil
+
+2019
+
+<u>**Favalesso MM**</u>, Burgos E, Peichoto ME and Guimaraes ATB
+
+
+### [Predict areas of occurrence of *Lonomia obliqua* Walker 1855 (Saturniidae, Hemileucinae) in the province of Misiones, Argentina (English)](https://www.researchgate.net/publication/321781213_PREDICT_AREAS_OF_OCCURRENCE_OF_Lonomia_obliqua_WALKER_1855_SATURNIIDAE_HEMILEUCINAE_IN_THE_PROVINCE_OF_MISIONES_ARGENTINA)
+
+Reunión conjunta de sociedades de Biociências
+
+Argentina
+
+2017
+
+<u>**Favalesso MM**</u>, Casafus MG, Guimaraes ATB and Peichoto ME 
+
+### [Prediction of climatically suitable areas for *Automeris naranja* Schaus, 1898 (Lepidoptera, Saturniidae, Hemileucinae) in southern Brazil (Portuguese)](https://midas.unioeste.br/sgev/eventos/sabUnioeste2017/anais)
+
+XXVI Semana Acadêmica de Ciências Biológicas da UNIOESTE
+
+Brazil
+
+2017
+
+Bastos EFM, <u>**Favalesso MM**</u>, and Guimaraes ATB
+
+### [What is your question? (Portuguese)](https://www5.unioeste.br/eventos/seu/anais/XVII_SEU_Anais.pdf)
+
+XVII Seminário de Extensão da UNIOESTE
+
+Brazil
+
+2017
+
+Guimarães ATB, Paoletti M, Cargnelutti-Júnior JC, <u>**Favalesso MM**</u>, Dal'Canton LE and Sobjak T
+
+### [Comparison of abiotic water parameters between three points in the Cascavel river basin (Portuguese)](https://www.dropbox.com/s/3mbwv58z1pv08im/2016%20MEDEIROS%20et%20al.%20-%20XXV%20Semana%20academica%20de%20biologia.pdf?dl=0)
+
+XXV Semana Acadêmica de Biologia
+
+Brazil
+
+2016
+
+Medeiros G, <u>**Favalesso MM**</u>, Nabeshima CA, Favaretto CC and Bueno NC
+
+### [Silk sericin exerts a protective effect on sperm morphology of C57BL/6 mice fed a High Fat diet (Portuguese)](https://www.researchgate.net/publication/321781524_SERICINA_DA_SEDA_EXERCE_EFEITO_PROTETOR_SOBRE_A_MORFOLOGIA_DE_ESPERMATOZOIDES_DE_CAMUNDONGOS_C57BL6_ALIMENTADOS_COM_DIETA_HIGH_FAT)
+
+XV Congresso Brasileiro de Biomedicina & III Congresso Internacional de Biomedicina
+
+Brazil
+
+2016
+
+Scarton SRS, <u>**Favalesso MM**</u>, Kunz RI, Bracalhão RC, Guimarães ATB and BEU CCL
+
+### [Bibliographic analysis on the use of fish as bioindicators of the biotic integrity of Brazilian aquatic ecosystems: Sampling environments (Portuguese)](https://www.researchgate.net/publication/321781396_ANALISE_BIBLIOGRAFICA_SOBRE_O_USO_DE_PEIXES_COMO_BIOINDICADORES_DA_INTEGRIDADE_BIOTICA_DOS_ECOSSISTEMAS_AQUATICOS_BRASILEIROS_AMBIENTES_DE_AMOSTRAGEM)
+
+V Seminário sobre Estudos Limnológicos em Clima Subtropical (V SELCS)
+
+Brazil
+
+2016
+
+Berlatto AF, Bogoni RF, Ticiani D, Eichelberger AC, Malagi I, Medeiros G, <u>**Favalesso MM**</u>, Delariva RL
+
+### [Bees that collect pollen by vibration in Solanaceae flowers in São Camilo State Park, Palotina, Paraná (Portuguese)](http://www.seb.org.br/admin/files/book/book_nTi2y3ZTHwRm.pdf)
+
+XXV Congresso de Entomologia
+
+Brazil
+
+2014
+
+<u>**Favalesso MM**</u>, Gonçalves RB
+
+### [Structure of the interaction network between bees and angiosperms native to Semideciduous Seasonal Forest (São Camilo State Park, Palotina, Paraná) (Portuguese)](http://www.siepe.ufpr.br/2014/evinci/0162.html)
+
+22º EVINCI e 6ª SIEPE
+
+Brazil
+
+2014
+
+### [Study of cadaveric fauna in the municipality of Palotina, Paraná - Description of the characteristics of cadaveric decomposition (Portuguese)](https://revistas.ufpr.br/veterinary/article/view/33866/21150)
+
+XVI ENAPAVE - Archives of Veterinary Science, v. 18, p. 349-351
+
+Brazil
+
+2013
+
+Tostes RA, Caron E, Cestari FK, <u>**Favalesso MM**</u> and Silva NL
+
+### [Study of Cadaveric Fauna in the Municipality of Palotina, Paraná - Description of Characteristics of Cadaveric Decomposition (Portuguese)](https://www.dropbox.com/s/y7ispjszy1av52o/2013%20CESTARI%20et%20al.%20-%20MEDVEP.pdf?dl=0)
+
+MedVep de Especialidades Veterinárias
+
+Brazil
+
+2013
+
+Cestari FK, Silva NL, Tostes RA, <u>**Favalesso MM**</u> and Caron E
+
+### [Study of Cadaveric Fauna in the Municipality of Palotina, Paraná – Biogeoclimatic Changes and Its Relation with Cadaveric Decomposition (Portuguese)](https://www.dropbox.com/s/edi11cldg3c7eek/2013%20TOSTES%20et%20al.%20-%20MEDVEP.pdf?dl=0)
+
+MedVep de Especialidades Veterinárias
+
+Brazil
+
+2013
+
+Tostes RA, Cestari FK, Silva NL, <u>**Favalesso MM**</u> and Caron E
+
+### [The influence of a group of studies on bioethics at the Federal University of Paraná, Setor Palotina (Portuguese)](https://www.dropbox.com/s/7vwzkdd5okqd55t/2013%20DIAS%20et%20al.%20-%20RBB%20v9.pdf?dl=0)
+
+Revista da Sociedade Brasileira de Bioética, V. 9, p. 298
+
+Brazil
+
+2013
+
+Dias NA, Cestari FK and <u>**Favalesso MM**</u>
+
+### [Divergence in carcass decomposition of *Sus scrofa* L. in Forensic Entomology experiments (Spanish)](https://www.szu.org.uy/assets/boletin/libro_resumenes_iicuz.pdf)
+
+Anais del II Congreso Uruguayo de Zoología, v. 2, p. 147
+
+Uruguay
+
+2012
+
+Chiarini R, Cestari FK and <u>**Favalesso MM**</u>
+
+### [Preliminary study of cadaveric fauna in the municipality of Palotina, Paraná - Entomological succession (Portuguese)](http://www.siepe.ufpr.br/2012/adocs/livro_siepe.pdf)
+
+20º Evinci e 5º Einti
+
+Brazil
+
+2012
+
+<u>**Favalesso MM**</u>, Cestari FK, Lima N and Tostes R
+
+### [Assessment of theoretical content retention in students undergoing practical activities (Portuguese)](https://www.dropbox.com/s/7aqh1bl0je9pfrm/2012%20OLIVEIRA%20et%20al.%20-%20XXI%20Semana%20academica%20de%20bio%20UNIOESTE.pdf?dl=0)
+
+XXI Semana Acadêmica de Biologia da UNIOESTE
+
+Brazil
+
+2012
+
+Oliveira JB, Vendrame C, <u>**Favalesso MM**</u>, Peireira-Júnior M, Lucyk N, Artmann N, Aranha JM and Guimarães ATB
+
+
+Others {data-icon=plus}
+--------------------------------------------------------------------------------
+
+### [Founder of *Soma dos quadrados*](https://www.somaquadrados.com/)
+
+Texts and videos on biostatistics
+
+Argentina/Brazil
+
+2021 - current
+
+
+### [Founder of the *Niche and distribution models group*](https://linktr.ee/niche_group)
+
+Study Group on ENM/SDM
+
+South America
+
+2020 - current
+
+
+### [Co-founder of the *Data Science Study Group*](https://github.com/gecdfoz/GECD) 
+
+Study Group on Data Science
+
+South America
+
+2019 - current
+
+

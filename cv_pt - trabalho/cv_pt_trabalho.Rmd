@@ -1,0 +1,150 @@
+---
+title: "Marília Melo Favalesso"
+author: Marília Melo Favalesso
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ['dd_cv.css', 'custom.css','resume']
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Aside
+================================================================================
+
+Sobre {#contact}
+--------------------------------------------------------------------------------
+- `r fontawesome::fa("female")` 31 anos 
+- `r fontawesome::fa("map-marker-alt")` Toledo-PR 
+- `r fontawesome::fa("baby")` 0 dependentes 
+- `r fontawesome::fa("ring")` Solteira </center>
+
+
+Contato {#contact}
+--------------------------------------------------------------------------------
+- `r fontawesome::fa("phone-alt")` +55 45 99829-2469
+- `r fontawesome::fa("link")` [www.mmfava.com](https://www.mmfava.com/)
+- `r fontawesome::fa("linkedin")` [/mariliafavalesso](https://www.linkedin.com/in/mariliafavalesso/)
+- `r fontawesome::fa("envelope")` mariliabioufpr@gmail.com
+- `r fontawesome::fa("github")` [github/mmfava](https://github.com/mmfava)
+
+Habilidades {#contact}
+--------------------------------------------------------------------------------
+- `r fontawesome::fa("table")` `Análise de dados`
+- `r fontawesome::fa("laptop-code")` `Programação`
+- `r fontawesome::fa("leaf")` `Ecoepidemiologia`
+- `r fontawesome::fa("globe-americas")` `Ecologia espacial`
+
+Softwares {#skills}
+-------------------------------------------------------------------------------
+- `r fontawesome::fa("r-project")` [`R`](https://www.r-project.org/)
+- `r fontawesome::fa("python")` [`Python (basic)`](https://www.python.org/)
+- `r fontawesome::fa("file-excel")` [`Excel`](https://qgis.org/en/site/)
+- **>** [`Xlstat`](https://www.xlstat.com/en/)
+- `r fontawesome::fa("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
+- `r fontawesome::fa("code-branch")` [`Git`](https://git-scm.com/) / `r fontawesome::fa("github")` [`GitHub`](https://github.com/)
+- `r fontawesome::fa("quora")` [`QGIS`](https://qgis.org/en/site/)
+- `r fontawesome::fa("mountain")` [`Inkscape`](https://inkscape.org/pt-br/)
+
+
+Main
+================================================================================
+
+Marília Melo Favalesso {#title}
+--------------------------------------------------------------------------------
+<center> Bioestatística <strong>|</strong> Analista de dados <strong>|</strong> Cientista de dados </center>
+
+<p align="justify">
+Sou ecoepidemiologista e entusiasta da ciência de dados/bioestatística. Tenho experiência em análise de dados biológicos, análise de dados espaciais, ecologia, epidemiologia e programação (domínio do R e estou aprendendo Python). Me interesso por análise de dados desde a graduação e já trabalhei com consultoria e assessoria em bioestatística. Além disso, sou cofundadora e coorganizadora do [Grupo de Estudos em Ciência de Dados (GECD)](https://github.com/gecdfoz/GECD) de Foz do Iguaçu (PR) e falo sobre bioestatística no canal do youtube [“Soma dos Quadrados”](https://www.somaquadrados.com/).
+</p> 
+
+Experiência profissional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Consultoria e assessoria em bioestatística
+
+[Qual é a sua pergunta?](https://qualesuapergunta.wixsite.com/consultoria)
+
+N/A 
+
+2015 - 2018   
+
+::: concise
+- Estatística descritiva 
+- Estatística inferencial
+- Análises não-paramétricas
+- Análises ecológicas
+- Modelagem
+- Cursos de programação em R
+- Curso de Mendeley
+:::
+
+Educação {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Técnico ambiental
+
+[Centro Estadual de Educação Profissional Pedro Boaretto  Neto (CEEP)](https://www.ceepcascavel.com.br/)
+
+N/A
+
+2005 - 2009
+
+### Bacharelado em Ciências Biológicas
+
+[Universidade Federal do Paraná (UFPR)](http://www.palotina.ufpr.br/portal/ciencias-biologicas/)
+
+N/A
+
+2010 - 2014
+
+### Mestrado em Conservação e Manejo de Recursos Naturais
+
+[Universidade Estadual do Oeste do Paraná (UNIOESTE)](https://www5.unioeste.br/portalunioeste/pos/pprn)
+
+N/A
+
+2016 - 2018
+
+### Doutorado em '*Ecología, Genética y Evolución*'
+
+[Universidad de Buenos Aires (Argentina)](http://www.ege.fcen.uba.ar/)
+
+N/A
+
+2018 - Presente
+
+
+Educação complementar {data-icon=book}
+--------------------------------------------------------------------------------
+### Análise de dados
+
+Modelos lineares generalizados e mistos, Introdução aos Métodos Estatísticos Bayesianos em Ecologia, Epidemiologia, Modelagem temporal, Modelos avançados em saúde e meio ambiente, Escola de Formação Avançada em Epidemiologia Panorâmica, Modelagem de nicho ecológico: teoria e prática, Análise multivariada, Ecologia numérica, Estatística básica. 
+
+N/A
+
+N/A
+
+### Outros 
+
+Formação de professores-facilitadores: Análise Estatística Descritiva com R, Sensoriamento remoto quantitativo aplicado a problemas ambientais, Biotoxinologia, Tópicos especiais em metodologia e redação científica. 
+
+N/A
+
+N/A
+
+Idiomas {data-icon=volume-up}
+--------------------------------------------------------------------------------
+
+### Inglês (4/5)
+
+CCAA, Professor Particular
+
+N/A
+
+### Espanhol (4/5) 
+
+Aprendi durante meu doutorado na Argentina

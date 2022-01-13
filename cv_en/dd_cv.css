@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Playfair+Display&display=swap");
+
+/* O texto principal é monserrat*/
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  line-height: 1.3;
+  color: #444;
+}
+
+/* Dar aos cabeçalhos fonte playfair */
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display", serif;
+  color: #000;
+}
+
+/* Quando estiver no modo de exportação de PDF, certifique-se de que os sobrescritos estão bonitos e pequenos e em itálico */
+sup {
+  font-size: 0.45rem;
+  font-style: italic;
+}
+
+/* Evitar quebra de sessão */
+.blocks {
+  break-inside: avoid;
+}
+
+* {
+  /* Substituir a margem direita padrão da barra lateral*/
+  --pagedjs-margin-right: 0.2in;
+  --pagedjs-margin-left: 0.2in;
+}
+
+/* Customize some of the sizing variables */
+:root {
+  --sidebar-width: 12rem; /* Reduzir a largura da barra lateral  */
+  --sidebar-background-color: #f7fbff; /* Deixar a barra lateral (anos) azul */
+  --sidebar-horizontal-padding: 0.01in; /* Reduza o preenchimento da barra lateral */
+  --decorator-outer-dim: 10px; /* Aumente os círculos delineadores de posição */
+  --decorator-border: 2px solid #bdd7e7; /* Faça a linha do tempo um azul também*/
+}
+
+.details .place {
+  margin-top: 0.25rem;
+}
+
+.main-block:not(.concise) .details div {
+  padding-top: 0.005rem;
+}
+
+/* O ícone do laptop não está centralizado por padrão, o que é uma bosta */
+.fa-laptop {
+  margin-left: -3px;
+}
+
+/* Quando tivermos links no final de uma lista, certifique-se de que eles realmente estão numerados */
+#links li {
+  list-style-type: decimal;
+}
+
+/* Não coloque o pequeno ponto de lista falso na frente dos links */
+.aside li::before {
+  display: none;
+}
+
+/* Aproxime-se do início e suba em direção ao cabeçalho */
+.aside ul {
+  padding-left: 1rem;
+}
+
+.aside li::before {
+  position: relative;
+  margin-left: -4.25pt;
+  content: "• ";
+}
+
+/* Certifique-se de que os elementos em asside estejam centralizados e tenham um texto pequeno e agradável */
+.aside {
+  width: calc(var(--sidebar-width) + 9px);
+  line-height: 1.2;
+  font-size: 0.75rem;
+}
+
+/* Faça o contorno do pequeno círculo ser azul claro */
+.decorator::after {
+  background-color: #08306b;
+}
+
+/* Remova os marcadores falsos das listas */
+.aside li::before {
+  content: auto;
+}
+
+.skill-bar {
+  color: white;
+  padding: 0.1rem 0.25rem;
+  margin-top: 3px;
+  position: relative;
+  width: 100%;
+}
+
+
+/* When the class no-timeline is added we remove the after psuedo element from the header... */
+
+/* Removes the psuedo element on h2 tags for this section */
+.section.no-timeline h2::after {
+  content: none;
+}
+
+/* Without adding padding the content is all up on the title */
+.section.no-timeline h2 {
+  padding-bottom: 1rem;
+}
+
+/* Add styles for little cards  */
+.info-card{
+  width: 220px;    
+  float: left;    
+  padding: 0.5rem;
+  margin: 0.5rem;
+  box-shadow: 1px 1px 4px black;
+}
